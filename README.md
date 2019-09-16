@@ -1,2 +1,2 @@
 # DemoFlex
-<img src = "imgdemoflex.png" >
+<img src = "imgDemoFlex.png" >
